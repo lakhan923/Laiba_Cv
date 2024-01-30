@@ -23,6 +23,8 @@ Olen 24-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - JavaScript
 - PHP
 - JQuery
+- Database
+- Wordpress
 
 ### ***Koulutus:***
 - 8.8.2023 - 8.8.2025 Gradia jyväskylä: Tällä hetkellä opiskelen Tieto-ja-viestintätekniikan kurssilla. joka päättyy 8.8.2025.
