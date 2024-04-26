@@ -12,6 +12,7 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - Visual Studion ja pycharmin 
 - pythonin perusteet
 - c# perusasiat
+- Linux
 - Git ja Github
 - Microsoft Word
 - Powerpoint
@@ -23,7 +24,7 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - JavaScript
 - PHP
 - JQuery
-- Database
+- Databases
 - Wordpress
 - Graafiset käyttöliittymät(Windows Form app)
 
