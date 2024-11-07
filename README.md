@@ -9,7 +9,7 @@
 Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen erittäin ahkera, oma-aloitteinen, luotettava, vastuuntuntoinen, intohimoinen ja hyvin organisoitunut henkilö. Pystyn työskentelemään hyvin ryhmässä sekä itsenäisesti. Tykkään oppia uusia asioita kehittääkseni taitojani ja ajattelukykyäni. Suurin intohimoni elämässäni on käyttää teknistä osaamistani muiden ihmisten ja organisaatioiden hyödyksi.
 
 ### ***IT-taidot:***
-- Visual Studion ja pycharmin 
+- Visual Studio ja Visual Studio koodi
 - pythonin perusteet
 - c# perusasiat
 - Linux
@@ -25,6 +25,7 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - PHP
 - JQuery
 - Databases
+- SQL
 - Wordpress
 - Graafiset käyttöliittymät(Windows Form app)
 
