@@ -53,4 +53,6 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 
 ### ***Harrastukset:***
 - Sulkapallo 
-- käveleminen luonnossa.
+- käveleminen luonnossa
+- Maalaus
+- Hiusten leikkaus ja meikkaus
