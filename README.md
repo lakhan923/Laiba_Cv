@@ -25,6 +25,7 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - PHP
 - JQuery
 - Databases
+- Rajapinnat ja palvelut (interfaces and services)
 - SQL
 - Wordpress
 - Graafiset käyttöliittymät(Windows Form app)
@@ -55,4 +56,5 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 - Sulkapallo 
 - käveleminen luonnossa
 - Maalaus
+- valokuvaus
 - Hiusten leikkaus ja meikkaus
