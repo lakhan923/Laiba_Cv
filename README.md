@@ -11,6 +11,7 @@ Olen 25-vuotias ja opiskelen tieto- ja viestintätekniikan kurssilla. Olen eritt
 ### ***IT-taidot:***
 - Visual Studio ja Visual Studio koodi
 - c# 
+- Basics of python
 - Linux
 - Git ja Github
 - Microsoft Word
