@@ -1,16 +1,16 @@
-# **Laiba khan CV**
-### ***yhteystiedot:*** 
-- Emännäntie 10 k 13
-- 40740, Jyväskylä
-- Phone: 0466364833
-- Email: laaaibah@gmail.com 
-- LindIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
-- Github: https://github.com/lakhan923?tab=repositories
-
-### ***Profiiliteksti:***
+# 👤 Laiba khan
+### 📞 Yhteystiedot
+- 📍 Jyväskylä, Suomi
+- 📱 Phone: 0466364833
+- 📧 laaaibah@gmail.com 
+- 💼[LinkedIn](https://linkedin.com/in/käyttäjänimi)  
+- 💻[GitHub](https://github.com/käyttäjänimi)
+---
+### 📌 Profiiliteksti
 Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen erittäin ahkera, oma-aloitteinen, luotettava, vastuuntuntoinen, intohimoinen ja hyvin organisoitunut henkilö. Pystyn työskentelemään hyvin ryhmässä sekä itsenäisesti. Tykkään oppia uusia asioita kehittääkseni taitojani ja ajattelukykyäni. Suurin intohimoni elämässäni on käyttää teknistä osaamistani muiden ihmisten ja organisaatioiden hyödyksi.
 
-### ***IT-taidot ja kehittäjätyökalut:***
+---
+### 💻 IT-taidot ja kehittäjätyökalut
 - **Kielet & Kehitys:** C#, HTML, CSS, JavaScript, PHP, jQuery, SQL, Python (perusteet)
 - **Editorit:** Visual Studio, VS Code, Notepad++, Sublime Text
 - **Käyttöjärjestelmät & Työkalut:** Linux,  Microsoft Word, Excel, PowerPoint
@@ -20,32 +20,37 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 - **Web-teknologiat:** Rajapinnat ja palvelut (REST APIs), Web-suunnittelu, graafiset käyttöliittymät
 - **Debuggaus:** Käytin selainkehitystyökaluja käyttöliittymävirheiden tunnistamiseen ja korjaamiseen
 - **Frontend:**
-  - *React.js:* Rakensin interaktiivisia käyttöliittymäkomponentteja ja toteutin dynaamisen koonmuutoksen react-rnd:n avulla.  
-  - *SCSS/CSS:* Korjasin layout-ongelmia poistamalla ylimääräisiä vierityspalkkeja ja sovelsin responsiivista suunnittelua.  
-  - *UI/UX-osaaminen:* Paransin käyttökokemusta muokkaamalla käyttöliittymäasettelua ja toteuttamalla joustavia paneeleja.
+  - *React.js:* Rakensin interaktiivisia käyttöliittymiä ja toteutin koonmuutoksen react-rnd:llä.
+  - *SCSS/CSS:* Korjasin layout-ongelmia ja sovelsin responsiivista suunnittelua.
+  - *UI/UX:* Paransin käyttökokemusta mukautettavilla paneeleilla ja selkeällä asettelulla.
+---
 
-### ***Koulutus:***
-- **8.8.2023 - 19.12.2025 Gradia jyväskylä:** Tällä hetkellä opiskelen Tieto-ja-viestintätekniikan alalla. joka päättyy 19.12.2025.
-- **13.09.2022 - 21.06.2023 Gradia jyväskylä:** Opiskelin TUVA-kurssila (Tutkintokoulutukseen Valmentava koulutus) joka oli 38 viikoa.
-- **13.09.2021 - 21.06.2022 Jyväskylän yliopisto:** Opiskelin INTEGRA-kurssilla (Movi center for Multilingual Academic Communication). INTEGRA-kurssilla opiskelin IT-kursseja, kuten ohjelmointia 1 (6 op). web-suunnittelua (2 op) ja Digitaalisen osaamisen perusteet (3 op). suomen kielen taito (24 op), englannin kielen taito (6 op).
-- **19.10.2020 - 10.09.2021:** Vuonna 2021 opiskelin suomen kielikurssilla, kurssilla opiskelin myös kulttuuria ja työelämää. Kotoutumiskoulutuksessa, Spring House Oy:ssa. opiskelin suomea yhteensä 227 päivää ja sain  koulutuksen aikana ohjausta 5,00 opintoviikkoa.
+### 🎓 Koulutus
+- **8.08.2023 - 19.12.2025:** Gradia Jyväskylä – Tieto- ja viestintätekniikka (nykyine).
+- **13.09.2022 - 21.06.2023:** Gradia Jyväskylä – TUVA (Tutkintokoulutukseen valmentava koulutus).
+- **13.09.2021 - 21.06.2022:** Jyväskylän yliopisto – INTEGRA (Movi center for Multilingual Academic Communication)
+  - Ohjelmointi 1 (6 op), Web-suunnittelu (2 op), Digitaalisen osaamisen perusteet  (3 op)
+  - Suomen kielen taito (24 op), Englannin kielen taito (6 op)
+- **19.10.2020 - 10.09.2021:** Kotoutumiskoulutus, Spring House Oy, Opiskelin suomen kieltä, kulttuuria ja työelämää kotoutumiskoulutuksessa
+---
 
-### ***Työkokemus:***
-- **31.1.2025 - 31.7.2025(Käynnissä):** Harjoittelen Qvantel Finland Oy:ssä Flex Engine -tiimissä osana tieto- ja viestintätekniikan opintoja. Työskentelen tausta- ja frontend-kehitys- ja integraatiotehtävissä.
-- **27.3.2023 - 28.4.2023:** Harjoittelin Kortepohjan päiväkodissa osana TUVA-kurssia. Puhuin suomea lasten ja aikuisten kanssa puhetaitojen kehittämiseksi.
-- **12.07.2021 - 30.07.2021:** Harjoittelin Puistokadun päiväkodissa TE-toimiston koulutumisohjelman osana. Harjoittelun aikana opin ja käytin suomen kieltä. 
-- **23.04.2021 - 28.05.2021:** Harjoittelin Steinerpäiväkoti Tähtitarhassa  TE-toimiston koulutumisohjelman osana. Harjoittelun aikana opin ja käytin suomea. Puhuin suomea lasten ja aikuisten kanssa kehittääkseni puhetaitoja.
-- **5.02.2021 - 15.03.2021:**  Harjoittelin Asmalammen päiväkodissa Jyskässä  TE-toimiston koulutumisohjelman osana. Harjoittelun aikana opin ja käytin suomea.
+### 💼 Työkokemus
+- **31.01.2025 - 31.07.2025 (nykyinen):** Qvantel Finland Oy – Harjoittelija, Flex Engine -tiimi (tausta- ja frontend-kehitys)
+- **27.03.2023 - 28.04.2023:** Kortepohjan päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
+- **12.07.2021 - 30.07.2021:** Puistokadun päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
+- **23.04.2021 - 28.05.2021:** Steinerpäiväkoti Tähtitarha – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
+- **5.02.2021 - 15.03.2021:** Asmalammen päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
+---
 
-### ***KieliTaito:***
-- Pashto: Äidinkieli
-- Englanti: Erittäin sujuva puhe ja kirjoitus
-- Suomi: B1 
-- Muu: Urdu
-
-### ***Harrastukset:***
-- Sulkapallo 
-- käveleminen luonnossa
-- Maalaus
-- valokuvaus
+### 🌍 KieliTaito
+- **Pashto:** Äidinkieli
+- **Englanti:** Erittäin sujuva (puhe ja kirjoitus)
+- **Suomi:** B1 (hyvä arjen ja työelämän viestintä)
+- **Urdu:** Hyvä (kirjoitus ja puhe)
+---
+### 🎯 Harrastukset
+- Sulkapallo  
+- Luonnossa kävely  
+- Maalaus  
+- Valokuvaus  
 - Hiusten leikkaus ja meikkaus
