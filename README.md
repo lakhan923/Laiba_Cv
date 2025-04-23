@@ -3,8 +3,8 @@
 - 📍 Jyväskylä, Suomi
 - 📱 Phone: 0466364833
 - 📧 laaaibah@gmail.com 
-- 💼[LinkedIn](https://linkedin.com/in/käyttäjänimi)  
-- 💻[GitHub](https://github.com/käyttäjänimi)
+- 💼[LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- 💻[GitHub](https://github.com/lakhan923?tab=repositories)
 ---
 ### 📌 Profiiliteksti
 Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen erittäin ahkera, oma-aloitteinen, luotettava, vastuuntuntoinen, intohimoinen ja hyvin organisoitunut henkilö. Pystyn työskentelemään hyvin ryhmässä sekä itsenäisesti. Tykkään oppia uusia asioita kehittääkseni taitojani ja ajattelukykyäni. Suurin intohimoni elämässäni on käyttää teknistä osaamistani muiden ihmisten ja organisaatioiden hyödyksi.
