@@ -1,16 +1,16 @@
-# 👤 Laiba khan
-### 📞 Yhteystiedot
-- 📍 Jyväskylä, Suomi
-- 📱 Phone: 0466364833
-- 📧 laaaibah@gmail.com 
-- 💼 [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
-- 💻 [GitHub](https://github.com/lakhan923?tab=repositories)
+# Laiba khan
+### Yhteystiedot
+- Jyväskylä, Suomi
+- Phone: 0466364833
+- laaaibah@gmail.com 
+- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- [GitHub](https://github.com/lakhan923?tab=repositories)
 ---
-### 📌 Profiiliteksti
+###  Profiiliteksti
 Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen erittäin ahkera, oma-aloitteinen, luotettava, vastuuntuntoinen, intohimoinen ja hyvin organisoitunut henkilö. Pystyn työskentelemään hyvin ryhmässä sekä itsenäisesti. Tykkään oppia uusia asioita kehittääkseni taitojani ja ajattelukykyäni. Suurin intohimoni elämässäni on käyttää teknistä osaamistani muiden ihmisten ja organisaatioiden hyödyksi.
 
 ---
-### 💻 IT-taidot ja kehittäjätyökalut
+### IT-taidot ja kehittäjätyökalut
 - **Kielet & Kehitys:** C#, HTML, CSS, JavaScript, PHP, jQuery, SQL, Python (perusteet)
 - **Editorit:** Visual Studio, VS Code, Notepad++, Sublime Text
 - **Käyttöjärjestelmät & Työkalut:** Linux,  Microsoft Word, Excel, PowerPoint
@@ -25,7 +25,7 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
   - *UI/UX:* Paransin käyttökokemusta mukautettavilla paneeleilla ja selkeällä asettelulla.
 ---
 
-### 🎓 Koulutus
+### Koulutus
 - **8.08.2023 - 19.12.2025:** Gradia Jyväskylä – Tieto- ja viestintätekniikka (nykyine).
 - **13.09.2022 - 21.06.2023:** Gradia Jyväskylä – TUVA (Tutkintokoulutukseen valmentava koulutus).
 - **13.09.2021 - 21.06.2022:** Jyväskylän yliopisto – INTEGRA (Movi center for Multilingual Academic Communication)
@@ -34,7 +34,7 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 - **19.10.2020 - 10.09.2021:** Kotoutumiskoulutus, Spring House Oy, Opiskelin suomen kieltä, kulttuuria ja työelämää kotoutumiskoulutuksessa
 ---
 
-### 💼 Työkokemus
+### Työkokemus
 - **31.01.2025 - 31.07.2025 (nykyinen):** Qvantel Finland Oy – Harjoittelija, Flex Engine -tiimi (tausta- ja frontend-kehitys)
 - **27.03.2023 - 28.04.2023:** Kortepohjan päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
 - **12.07.2021 - 30.07.2021:** Puistokadun päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
@@ -42,13 +42,13 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 - **5.02.2021 - 15.03.2021:** Asmalammen päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
 ---
 
-### 🌍 KieliTaito
+### KieliTaito
 - **Pashto:** Äidinkieli
 - **Englanti:** Erittäin sujuva (puhe ja kirjoitus)
 - **Suomi:** B1 (hyvä arjen ja työelämän viestintä)
 - **Urdu:** Hyvä (kirjoitus ja puhe)
 ---
-### 🎯 Harrastukset
+### Harrastukset
 - Sulkapallo  
 - Luonnossa kävely  
 - Maalaus  
