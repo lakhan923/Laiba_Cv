@@ -3,7 +3,7 @@
 - Jyväskylä, Suomi
 - Phone: 0466364833
 - laaaibah@gmail.com 
-- [LinkedIn](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)  
+- [LinkedIn](https://www.linkedin.com/in/laiba-khan-a0484a27b/)  
 - [GitHub](https://github.com/lakhan923?tab=repositories)
 ---
 ###  Profiiliteksti
