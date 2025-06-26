@@ -5,6 +5,7 @@
 - laaaibah@gmail.com 
 - [LinkedIn](https://www.linkedin.com/in/laiba-khan-a0484a27b/)  
 - [GitHub](https://github.com/lakhan923?tab=repositories)
+- [Portfolio](https://lakhan-portfolio.netlify.app/)
 ---
 ###  Profiiliteksti
 Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen erittäin ahkera, oma-aloitteinen, luotettava, vastuuntuntoinen, intohimoinen ja hyvin organisoitunut henkilö. Pystyn työskentelemään hyvin ryhmässä sekä itsenäisesti. Tykkään oppia uusia asioita kehittääkseni taitojani ja ajattelukykyäni. Suurin intohimoni elämässäni on käyttää teknistä osaamistani muiden ihmisten ja organisaatioiden hyödyksi.
