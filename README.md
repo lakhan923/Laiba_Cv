@@ -19,11 +19,20 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 - **CMS & UI Frameworkit:** WordPress, Windows Forms
 - **Tietokannat:** MySQL, SQLite
 - **Web-teknologiat:** Rajapinnat ja palvelut (REST APIs), Web-suunnittelu, graafiset käyttöliittymät
-- **Debuggaus:** Käytin selainkehitystyökaluja käyttöliittymävirheiden tunnistamiseen ja korjaamiseen
+- **Debuggaus ja testaus:** 
+  - Käytin selainkehitystyökaluja käyttöliittymävirheiden tunnistamiseen ja korjaamiseen
+  - ESLint-virheiden korjaaminen ja koodin muotoilu SBT:llä
+  - Yksikkötestien kirjoittaminen Java-kielellä (circular dependency -tarkistus)
 - **Frontend:**
-  - *React.js:* Rakensin interaktiivisia käyttöliittymiä ja toteutin koonmuutoksen react-rnd:llä.
-  - *SCSS/CSS:* Korjasin layout-ongelmia ja sovelsin responsiivista suunnittelua.
-  - *UI/UX:* Paransin käyttökokemusta mukautettavilla paneeleilla ja selkeällä asettelulla.
+  - **React.js:** Käytin lomakkeiden käsittelyä, hakukenttien palautumista, URL-parametrien hallintaa, tilanhallintaa (React-hookit) ja React-rnd-komponentin muokkaamista.
+  - **SCSS/CSS:** Korjasin layout-ongelmia ja sovelsin responsiivista suunnittelua.
+  - **UI/UX:** Paransin käyttökokemusta mukautettavilla paneeleilla ja selkeällä asettelulla.
+- **Backend ja prosessinhallinta:**
+  - **Java:** Kehitin Import Utility -luokan lisäämällä JS-tuonnille kehämäisen riippuvuustunnistuksen ThreadLocal-pinon avulla estääkseni äärettömät silmukat. Kirjoitin yksikkötestejä ja lisäsin tuen virhetilanteiden hallintaan.
+  - **Flowable / BPMN / Flex Studio:** Muokkasin prosessidefinointeja Flex Studiossa, lisäsin historialliseen vientiin puuttuvia kenttiä ja optimoisin näkymää vähentämällä päällekkäisiä kyselyjä tietokantaan.
+- **DevOps ja kontit:** 
+  - **Docker & docker-compose:** Käytin docker-compose-komentoja käynnistääkseni Flex Studio -kehitysympäristön paikallisesti. Osasin pysäyttää ja hallita yksittäisiä palvelukontteja (executor, manager, mock-executor), sekä muokata docker-compose.yml-tiedostoa tarvittaessa. 
+  - **Jenkins:** Korjasin CI/CD-putken build-ongelmia (muotoilu- ja ESLint-virheitä) ja opin käyttämään sbt javafmtAll -komentoa yhteensopivaksi Jenkinsin kanssa.
 ---
 
 ### Koulutus
