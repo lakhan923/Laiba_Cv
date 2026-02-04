@@ -36,7 +36,7 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 ---
 
 ### Koulutus
-- **8.08.2023 - 19.12.2025:** Gradia Jyväskylä – Tieto- ja viestintätekniikka (nykyine).
+- **8.08.2023 - 19.12.2025:** Gradia Jyväskylä - Tieto- ja viestintätekniikka (ohjelmistokehitys).
 - **13.09.2022 - 21.06.2023:** Gradia Jyväskylä – TUVA (Tutkintokoulutukseen valmentava koulutus).
 - **13.09.2021 - 21.06.2022:** Jyväskylän yliopisto – INTEGRA (Movi center for Multilingual Academic Communication)
   - Ohjelmointi 1 (6 op), Web-suunnittelu (2 op), Digitaalisen osaamisen perusteet  (3 op)
@@ -45,7 +45,7 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 ---
 
 ### Työkokemus
-- **31.01.2025 - 31.07.2025 (nykyinen):** Qvantel Finland Oy – Harjoittelija, Flex Engine -tiimi (tausta- ja frontend-kehitys)
+- **31.01.2025 - 31.07.2025:** Qvantel Finland Oy – Harjoittelija, Flex Engine -tiimi (tausta- ja frontend-kehitys)
 - **27.03.2023 - 28.04.2023:** Kortepohjan päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
 - **12.07.2021 - 30.07.2021:** Puistokadun päiväkoti – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
 - **23.04.2021 - 28.05.2021:** Steinerpäiväkoti Tähtitarha – Harjoittelija, Suomen kielen käyttö ja puhetaidon kehittäminen
@@ -61,6 +61,5 @@ Olen 26-vuotias tieto- ja viestintätekniikkaa opiskeleva opiskelija. Olen eritt
 ### Harrastukset
 - Sulkapallo  
 - Luonnossa kävely  
-- Maalaus  
-- Valokuvaus  
-- Hiusten leikkaus ja meikkaus
+- Maalaus ja valokuvaus (luovuus ja yksityiskohtien huomioiminen)
+- Hiustenmuotoilu ja meikkitaide
