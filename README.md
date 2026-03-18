@@ -49,10 +49,15 @@ Tammi 2025 – Heinä 2025
   
 
 **Kieliharjoittelu:**
+
 Kortepohja päiväkoti – Maalis 2023 – Huhti 2023
+
 Puistokatu päiväkoti – Heinä 2021
+
 Steiner päiväkoti Tähtitarha – Huhti 2021 – Touko 2021
+
 Asmalampi päiväkoti – Helmi 2021 – Maalis 2021
+
 - Harjoitteli suomen kielen viestintää työympäristössä
 - Avusti päivittäisissä toiminnoissa ja kommunikoinnissa lasten ja henkilökunnan kanssa
 
